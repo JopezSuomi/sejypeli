@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrheaSotilas", "UrheaSotilas\UrheaSotilas\UrheaSotilas.csproj", "{38D4F114-82EC-4F88-BCDB-4DDC2E5E9413}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "UrheaSotilasContent", "UrheaSotilas\UrheaSotilasContent\UrheaSotilasContent.contentproj", "{DDB18214-B241-4019-95DE-760960FF03C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D4F114-82EC-4F88-BCDB-4DDC2E5E9413}.Debug|x86.ActiveCfg = Debug|x86
+		{38D4F114-82EC-4F88-BCDB-4DDC2E5E9413}.Debug|x86.Build.0 = Debug|x86
+		{38D4F114-82EC-4F88-BCDB-4DDC2E5E9413}.Release|x86.ActiveCfg = Release|x86
+		{38D4F114-82EC-4F88-BCDB-4DDC2E5E9413}.Release|x86.Build.0 = Release|x86
+		{DDB18214-B241-4019-95DE-760960FF03C5}.Debug|x86.ActiveCfg = Debug|x86
+		{DDB18214-B241-4019-95DE-760960FF03C5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
